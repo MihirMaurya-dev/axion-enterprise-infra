@@ -38,6 +38,20 @@ Our infrastructure is logically segregated into secure subnets, ensuring optimal
 
 ---
 
+## 🧰 Technology Stack & Tooling
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=azure,terraform,linux,ubuntu,bash,githubactions,git,vscode&theme=dark&perline=8" alt="Technology Stack" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
 ## 📂 Repository Structure
 
 This repository is built using a strict **Child-Parent Module** structure.
