@@ -111,6 +111,6 @@ terraform apply -auto-approve
 
 <div align="center">
 
-Made with ❤️ by the DevOps Insiders Team 
+Made with ❤️ by Mihir Maurya 
 
 </div>
